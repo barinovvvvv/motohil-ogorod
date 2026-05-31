@@ -1,0 +1,63 @@
+[
+  {
+    "number": 1,
+    "name": "Overgrown Summer Garden",
+    "product_focus": "walk-behind tractor, rotary mower, flail mower",
+    "brief": "A Polish village garden in summer has become wildly overgrown after rain and sunshine. Dziadek Staszek believes he can handle it with an old scythe, hand tools, or a ridiculous homemade method. The grass is too tall, paths disappear, and the situation becomes visually funny. Babcia Zosia notices that the real problem is using the wrong tool. She introduces a Motohill-style walk-behind tractor with a mower attachment or a proper mower solution. End with the yard clean and ready for summer life."
+  },
+  {
+    "number": 2,
+    "name": "Potato Field Trouble",
+    "product_focus": "walk-behind tractor, potato digger attachment, soil-working attachments",
+    "brief": "Dziadek Staszek wants to prove he can prepare or manage the potato field with only a shovel, hoe, or an old trick from his youth. The summer soil is dry, heavy, or uneven, making the work slow and exhausting. Babcia Zosia sees the field needs proper mechanical help. She finds a Motohill-style walk-behind tractor with a suitable attachment. End by showing the difference between tiring manual work and smart farming."
+  },
+  {
+    "number": 3,
+    "name": "Branches After Summer Storm",
+    "product_focus": "wood chipper, branch shredder",
+    "brief": "After a sudden Polish summer storm, the yard is full of fallen branches from apple trees, plum trees, or roadside trees. Dziadek Staszek wants to burn them, drag them away by hand, or leave a huge pile for later. Babcia Zosia understands the mess will only grow. She introduces a wood chipper or branch shredder from Motohill. End with storm damage turned into useful chips or a clean yard."
+  },
+  {
+    "number": 4,
+    "name": "Dry Garden and Water Problem",
+    "product_focus": "water pump, motor pump",
+    "brief": "A hot Polish summer day leaves the vegetable garden dry. Dziadek Staszek tries to water everything manually with buckets, a small watering can, or a badly connected hose. The system fails in a funny but believable way: no pressure, too many trips, spilled water, or the wrong place getting soaked. Babcia Zosia finds a motor pump or practical water-pumping solution from Motohill. End with the garden properly watered and calm restored."
+  },
+  {
+    "number": 5,
+    "name": "Firewood Preparation Before Autumn",
+    "product_focus": "log splitter, firewood processing tools",
+    "brief": "Even though it is summer, Babcia Zosia reminds Dziadek Staszek that firewood must be prepared before autumn and winter. He postpones it or tries to split logs manually during the hottest part of the day. The work is slow, sweaty, and full of stubborn pride. Babcia Zosia brings in a Motohill-style log splitter or firewood processing solution. End with neatly stacked firewood and Grandpa pretending he planned it."
+  },
+  {
+    "number": 6,
+    "name": "Village Road and Yard Transport",
+    "product_focus": "trailer, utility cart, transport attachment",
+    "brief": "A summer task requires moving heavy things across the yard, garden, or village road: sacks of soil, potatoes, tools, stones, compost, animal feed, or firewood. Dziadek Staszek insists on carrying everything by hand or using an old broken wheelbarrow. The load falls, the wheel squeaks, or the trip takes forever. Babcia Zosia finds a small trailer, utility cart, or transport attachment from Motohill. End with the work done easily and Grandpa trying to take credit."
+  },
+  {
+    "number": 7,
+    "name": "Soil Preparation for Late Summer Planting",
+    "product_focus": "rotary tiller, soil tiller, walk-behind tractor with tiller attachment",
+    "brief": "Babcia Zosia wants to prepare part of the garden for late summer planting, new vegetable beds, flowers, or soil renewal. Dziadek Staszek tries to loosen the ground manually and claims the soil is almost ready, even though it is lumpy, uneven, or full of weeds. Babcia Zosia chooses a proper tiller or walk-behind tractor attachment from Motohill. End with clean, workable garden beds."
+  },
+  {
+    "number": 8,
+    "name": "Orchard Cleanup",
+    "product_focus": "mower, mulcher, branch shredder, compact walk-behind tractor attachments",
+    "brief": "The small village orchard is messy in summer: tall grass under apple trees, fallen branches, weeds, old fruit, and narrow spaces where big machines cannot easily go. Dziadek Staszek tries to clean it in random steps and gets distracted or overwhelmed. Babcia Zosia identifies the right compact equipment from Motohill. End with the orchard transformed and ready for picking fruit or relaxing in the shade."
+  },
+  {
+    "number": 9,
+    "name": "Summer Power Outage",
+    "product_focus": "generator",
+    "brief": "A summer storm or local village power outage interrupts something important: food in the freezer, a family gathering, a small workshop task, a watering system, or Dziadek Staszek watching an important match. He tries candles, phone flashlights, extension cords, or a confused improvised solution. Babcia Zosia calmly brings in a generator from Motohill. End with power restored and a funny village-life reaction."
+  },
+  {
+    "number": 10,
+    "name": "Preparing for the Village Fair",
+    "product_focus": "choose one main product only depending on the story: mower, trailer, generator, tiller, pump",
+    "brief": "The village is preparing for a summer fair, family gathering, harvest picnic, name day celebration, or local event. Dziadek Staszek volunteers their yard, barn, or garden without realizing how much work is needed. Suddenly there is grass to cut, benches to move, lights to power, plants to water, or paths to clean. Babcia Zosia takes control and selects one relevant Motohill equipment solution. End with the event saved and Grandpa acting like the official organizer."
+  }
+]
+

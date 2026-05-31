@@ -1,0 +1,24 @@
+# Secrets
+API_KEYS.txt
+.env
+*service-account*.json
+*-credentials.json
+*-key.json
+
+# Outputs
+outputs/clips/*
+outputs/final/*
+outputs/stories/*
+!outputs/.gitkeep
+
+# Python
+.venv/
+__pycache__/
+.pycache/
+*.pyc
+dist/
+*.egg-info/
+
+# macOS
+.DS_Store
+OLD PROJECT/
