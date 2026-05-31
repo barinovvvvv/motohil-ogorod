@@ -80,9 +80,17 @@ def _generate_once(config: AppConfig, prompt: str, output_gcs_uri: str) -> str:
     return uri
 
 
+_POLISH_PREFIX = (
+    "IMPORTANT: This is a Polish rural comedy video. "
+    "If any character speaks, they must speak ONLY in Polish. No English speech. "
+    "All audio must match the Polish rural setting.\n\n"
+)
+
+
 def generate_scene_clip(
     config: AppConfig, scene_index: int, prompt: str, run_id: str
 ) -> Path:
+    prompt = _POLISH_PREFIX + prompt
     output_gcs_uri = f"gs://{config.gcs_output_bucket}/runs/{run_id}/scene-{scene_index:02d}/"
     dest = OUTPUTS_DIR / "clips" / run_id / f"scene-{scene_index:02d}.mp4"
 
