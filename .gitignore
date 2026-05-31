@@ -1,5 +1,4 @@
 # Secrets
-API_KEYS.txt
 .env
 *service-account*.json
 *-credentials.json
@@ -21,4 +20,3 @@ dist/
 
 # macOS
 .DS_Store
-OLD PROJECT/
